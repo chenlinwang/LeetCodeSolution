@@ -1,5 +1,4 @@
 import java.util.ArrayDeque;
-import java.util.Queue;
 
 /*
  * @lc app=leetcode id=4 lang=java
